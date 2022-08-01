@@ -1,0 +1,29 @@
+- How many users do you expect per day/hour?
+- How is the availability of the system?
+- What questions should be in the form?
+- Do you want to notify some users when an application is submitted?
+- Where should be the submitted forms be? a destination email? a database?
+- Do you want a system that displays the submitted application?
+- Do you want to have feature for exporting application into some files? PDF, Excel, TXT...
+- Will you need to update the questions in the application form at anytime? 
+- Do you require to update the questions in the application form in the system once you update it?
+- What kind of answers would you need? input box, dropdown selector, checkbox, date input?
+- Do you want to have a feature for user to save and update later?
+- Do you want to have a feature for user to create draft?
+- Do you want to have a feature let user know how's the application process? in review, submitted, withdrawal, rejected...
+- Do you want to have a notification system send email/SMS to user when there's a application update?
+- Do you want to have a comment/reply box in the form that let requestor and reviews communicate ?
+- What kind of approval would you need?
+- Do you require multi-level approvals for the application?
+- Do you require one user approve or all user approve for each level approval?
+- Do you need a list to store user's all applications? draft, submitted, approved, rejected,...
+- Do you need a search box for user to search and filter the application list?
+- Do you need a saved search list for the application list?
+- Do you need multiple stages for the application form? personal info, general info, pet info, address, review, signature, submit...
+- Do you need authentication system? login, logout, Oauth(google, facebook login), sign up?
+- Do you need to support attachment uploading? for supporting documents..
+- How long do you expect the uploaded files to live? auto delete after some time to save storage..
+- What kind of file types would you support? txt, pdf.
+- Do you need place any help text to help user?
+- Do you need a survey in the end?
+- Do you need data analysis? e.g. how many users per day, age of users... then we will need develp logging.
